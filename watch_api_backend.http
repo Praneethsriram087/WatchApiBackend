@@ -1,0 +1,6 @@
+@watch_api_backend_HostAddress = http://localhost:5234
+
+GET {{watch_api_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

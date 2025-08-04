@@ -1,0 +1,26 @@
+ApiLogs
+
+  - Id
+
+  - MonitoredApiId (FK)
+
+  - Timestamp
+
+  - StatusCode
+
+  - ResponseTimeMs
+
+  - Success (bool)
+
+  - ErrorMessage (nullable)
+ 
+EmailNotifications
+
+  - Id
+
+  - MonitoredApiId
+
+  - ApiLogs
+
+  - SentAt
+ 
