@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XlY5DixbpddWl4h6/o4P1T/G497tOdi9SuWKdKZqwhU=",
+  "Source": "watch_api_backend",
+  "BasePath": "_content/watch_api_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

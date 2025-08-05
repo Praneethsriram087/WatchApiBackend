@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgXWbz1dFLA=",
+  "dgSpecHash": "AnDpkXqz7j4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CT_USER\\Desktop\\watch_api_backend\\watch_api_backend.csproj",
+  "projectFilePath": "C:\\Users\\CT_USER\\Desktop\\WatchApiBackend\\watch_api_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CT_USER\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\CT_USER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.18\\microsoft.aspnetcore.openapi.8.0.18.nupkg.sha512",
